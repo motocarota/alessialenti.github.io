@@ -443,6 +443,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+/*
 .navbar-default .navbar-brand,
 .navbar-default .navbar-brand:hover, 
 .navbar-default .navbar-brand:focus,
@@ -450,3 +451,4 @@ footer .footer-below {
 {
     color: #999999 !important;
 }
+*/
