@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: Audrey.jpg
+thumb: audrey.sm.jpg
 alt: Audrey
 project-date: April 2014
 client: Start Bootstrap

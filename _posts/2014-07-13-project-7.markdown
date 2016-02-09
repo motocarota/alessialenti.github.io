@@ -3,6 +3,7 @@ layout: default
 modal-id: 7
 date: 2014-07-15
 img: Da-me-riva.jpg
+thumb: da-me-riva.sm.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
