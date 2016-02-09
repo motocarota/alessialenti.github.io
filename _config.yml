@@ -12,34 +12,12 @@ contact: static
 color:
   primary: ffffff
   primary-rgb: "0,0,0"
-  secondary: 663399
+  secondary: 555555
   secondary-dark: 333333
 
 # Footer settings
 footer:
   copyright: Alessia Lenti
-  location: Arenzano
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'blablabla...'
 
 # Build settings
 markdown: kramdown
