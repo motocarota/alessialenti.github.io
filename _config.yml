@@ -12,7 +12,7 @@ contact: static
 color:
   primary: 000000
   primary-rgb: "0,0,0"
-  secondary: ffffff
+  secondary: 000000
   secondary-dark: 999999
 
 # Footer settings
